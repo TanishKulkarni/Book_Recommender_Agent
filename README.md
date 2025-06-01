@@ -1,0 +1,2 @@
+# AI_Book_recommender_agent
+ # ai-agent-book-recommender  An AI-powered book recommender using Groq and OpenLibrary  Libraries to install for backend express, axios, cors, mongoose, groq-sdk  Libraries to install for frontend axios , react-icons, framer-motion  To run project you need to make .env file in backend and include -: PORT=YOUR_PORT MONGO_URI=YOUR_MOGO_URI GROQ_API_KEY=YOUR_GROQ_API_KEY / any other if using.
